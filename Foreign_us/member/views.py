@@ -33,7 +33,8 @@ class KakaoView(View):
         request.session['member_email'] = email
         request.session['access_token'] = access_token
         member = Member.objects.filter(member_email=email).first()
-        request.session['member_type'] = member.member_type
+        if member:
+            request.session['member_type'] = member.member_type
 
         if not member:
             count = Member.objects.count() + 1
