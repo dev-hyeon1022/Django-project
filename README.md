@@ -53,7 +53,7 @@ Foreign-Us는 한국 내에서 다양한 국적과 문화를 가진 사람들 �
  
 <h2>✨ 담당 업무</h2>
 1. 프론트엔드<br>
-<img src="https://github.com/ss00-coder/study-django/assets/129861795/b47031c0-de1f-4951-9b60-206a44c916bc">
+<img src="https://raw.githubusercontent.com/dev-hyeon1022/dev-hyeon1022/master/%EA%B0%9C%EC%9D%B8%EC%9E%90%EB%A3%8C/foregin-us/img/foreign-us(%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1).png">
 
 ▶ 과외 홍보 게시판
 - 과외 홍보 게시판 작성/수정
@@ -81,7 +81,7 @@ Foreign-Us는 한국 내에서 다양한 국적과 문화를 가진 사람들 �
 
 <br>
 2. 백엔드<br>
-<img src="https://github.com/ss00-coder/study-django/assets/129861795/cdf7783c-7324-4712-87d5-cc58220ee284">
+<img src="https://raw.githubusercontent.com/dev-hyeon1022/dev-hyeon1022/master/%EA%B0%9C%EC%9D%B8%EC%9E%90%EB%A3%8C/foregin-us/img/foreign-us(%EB%B2%A1%EC%97%94%EB%93%9C).png">
 
 
 ▶ 프로필 페이지
